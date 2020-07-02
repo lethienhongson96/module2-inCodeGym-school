@@ -1,0 +1,13 @@
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\APS-module2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\APS-module2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
