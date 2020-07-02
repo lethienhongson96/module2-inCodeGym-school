@@ -1,0 +1,13 @@
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.exe
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.deps.json
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.json
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.dev.json
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.dll
+D:\APS-module2\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.pdb
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csprojAssemblyReference.cache
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfoInputs.cache
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfo.cs
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csproj.CoreCompileInputs.cache
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.dll
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.pdb
+D:\APS-module2\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.genruntimeconfig.cache
