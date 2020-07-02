@@ -14,6 +14,7 @@ namespace HelloWorld
             {
                 Console.WriteLine(number + " is not a number");
             }
+            
             else
             {
                 int i = 2;

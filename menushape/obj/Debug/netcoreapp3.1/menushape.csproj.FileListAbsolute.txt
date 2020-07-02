@@ -1,0 +1,13 @@
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.exe
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.deps.json
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.runtimeconfig.json
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.runtimeconfig.dev.json
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.dll
+D:\APS-module2\menushape\bin\Debug\netcoreapp3.1\menushape.pdb
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.csprojAssemblyReference.cache
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.AssemblyInfoInputs.cache
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.AssemblyInfo.cs
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.csproj.CoreCompileInputs.cache
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.dll
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.pdb
+D:\APS-module2\menushape\obj\Debug\netcoreapp3.1\menushape.genruntimeconfig.cache

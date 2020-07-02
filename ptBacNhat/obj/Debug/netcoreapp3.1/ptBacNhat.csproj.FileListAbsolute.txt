@@ -1,0 +1,13 @@
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.exe
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.deps.json
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.runtimeconfig.json
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.runtimeconfig.dev.json
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.dll
+D:\APS-module2\ptBacNhat\bin\Debug\netcoreapp3.1\ptBacNhat.pdb
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.csprojAssemblyReference.cache
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.AssemblyInfoInputs.cache
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.AssemblyInfo.cs
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.csproj.CoreCompileInputs.cache
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.dll
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.pdb
+D:\APS-module2\ptBacNhat\obj\Debug\netcoreapp3.1\ptBacNhat.genruntimeconfig.cache

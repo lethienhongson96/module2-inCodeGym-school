@@ -1,0 +1,13 @@
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.csprojAssemblyReference.cache
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.AssemblyInfoInputs.cache
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.AssemblyInfo.cs
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.csproj.CoreCompileInputs.cache
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.exe
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.deps.json
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.runtimeconfig.json
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.runtimeconfig.dev.json
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.dll
+D:\APS-module2\readNumber\bin\Debug\netcoreapp3.1\readNumber.pdb
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.dll
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.pdb
+D:\APS-module2\readNumber\obj\Debug\netcoreapp3.1\readNumber.genruntimeconfig.cache

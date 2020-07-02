@@ -1,0 +1,13 @@
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.csprojAssemblyReference.cache
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.AssemblyInfoInputs.cache
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.AssemblyInfo.cs
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.csproj.CoreCompileInputs.cache
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.exe
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.deps.json
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.runtimeconfig.json
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.runtimeconfig.dev.json
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.dll
+D:\APS-module2\uocChungLonNhat\bin\Debug\netcoreapp3.1\uocChungLonNhat.pdb
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.dll
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.pdb
+D:\APS-module2\uocChungLonNhat\obj\Debug\netcoreapp3.1\uocChungLonNhat.genruntimeconfig.cache
