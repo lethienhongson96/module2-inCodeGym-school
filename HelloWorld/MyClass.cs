@@ -4,10 +4,6 @@ namespace HelloWorld
 {
     public class MyClass
     {
-        public string ReturnMessage()
-        {
-            return "happy code";
-        }
-
+        public string ReturnMessage() => "happy code";
     }
 }
