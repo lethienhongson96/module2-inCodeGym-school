@@ -6,10 +6,10 @@ namespace HelloWorld
     {
         public static void Main()
         {
-            int[,] arr1 = createMatrixArr(5, 5);
+            int[,] arr1 = creRndMatrixArr(5, 5);
             printMatrix(arr1);
         }
-        public static int[,] createMatrixArr(int row, int col)
+        public static int[,] creRndMatrixArr(int row, int col)
         {
             int[,] arr2d = new int[row, col];
             Random rnd = new Random();
@@ -34,6 +34,8 @@ namespace HelloWorld
                 Console.WriteLine();
             }
         }
+
+
     }
 
 }

@@ -6,14 +6,9 @@ namespace Rectangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter width: ");
-            float width = float.Parse(Console.ReadLine());
-
-            Console.WriteLine("enter height: ");
-            float height = float.Parse(Console.ReadLine());
-
-            float area = width * height;
-            Console.WriteLine("area of rectangle is: " + area);
+            Cat cat1 = new Cat("15kg", "1.5", "kitty");
+            Console.WriteLine(cat1.Name);
+            cat1.printinfo();
         }
     }
 }

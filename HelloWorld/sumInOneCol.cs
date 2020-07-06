@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         public static void Main()
         {
-            int[,] arr2d = matrix2D.createMatrixArr(5, 5);
+            int[,] arr2d = matrix2D.creRndMatrixArr(5, 5);
             matrix2D.printMatrix(arr2d);
             Console.Write("enter the col you want to get sum ");
             int col = Convert.ToInt32(Console.ReadLine());
